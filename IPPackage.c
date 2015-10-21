@@ -1,5 +1,5 @@
 //
-//  main.c
+//  https://www.codeeval.com/open_challenges/56/
 //  IPPackage
 //
 //  Created by Stephan Warren on 1/8/15.
